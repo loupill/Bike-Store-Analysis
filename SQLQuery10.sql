@@ -183,3 +183,5 @@ ON so.customer_id = sc.customer_id
 ) x
 WHERE x.first_order_date >= '2018-12-01'
 
+--END
+
